@@ -25,11 +25,15 @@ A classic implementation of the "Pong" arcade game developed using Python and th
    ```
 3. Navigate into the cloned repository
    ```
-   cd ruta-al.repositorio/
+   cd path_to_repository/
    ```
 4. Run the project:
    ```
    python arcade_pong.py
+   ```
+   or
+   ```
+   python3 arcade_pong.py
    ```
 
 ## Contributing
